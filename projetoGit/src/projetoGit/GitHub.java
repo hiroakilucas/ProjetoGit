@@ -6,6 +6,7 @@ public class GitHub {
 		// TODO Auto-generated method stub
 
 		System.out.println("Aprendendo a usar Git e GitHub!!!!!");
+		System.out.println("Aprendendo a usar Git e GitHub!!!!!");
 
 
 	}
