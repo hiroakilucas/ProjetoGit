@@ -7,7 +7,10 @@ public class GitHub {
 
 		System.out.println("Merge fetch");
 		//mergefetch
+
+		System.out.println("Merge fetch2");
 		//mergefetch2
+	
 	}
 
 }
