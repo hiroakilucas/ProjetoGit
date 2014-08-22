@@ -21,6 +21,8 @@ public class GitHub {
 		//huehuehue
 		//merge2
 		System.out.println("MERGE");
+		//merge3
+		System.out.println("MERGE");
 	}
 
 }
