@@ -17,6 +17,8 @@ public class GitHub {
 		System.out.println("Aprendendo a usar Git e GitHub merge!!!!!");
 		//merge1
 		System.out.println("MERGE");
+		//merge2
+		System.out.println("MERGE");
 	}
 
 }
