@@ -7,6 +7,7 @@ public class GitHub {
 
 		System.out.println("Aprendendo a usar Git e GitHub!!!!!");
 		System.out.println("Aprendendo a usar Git e GitHub!!!!!");
+		System.out.println("Aprendendo a usar Git e GitHub merge!!!!!");
 
 
 	}
